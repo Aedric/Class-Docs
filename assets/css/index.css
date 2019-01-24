@@ -1,0 +1,15 @@
+img {
+    width: 100%;
+}
+
+.container {
+    padding-top: 2rem;
+}
+
+.card {
+    margin-bottom: 1rem;
+}
+
+.navbar-collapse.collapse.in {
+    display: block!important;
+  }
